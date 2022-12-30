@@ -13,7 +13,7 @@ const FAQ = () => {
     return (
         <div className='bg-gradient-to-r from-[#5846f9] to-[#7b27d8] py-16'>
             <div className='flex justify-center items-center py-16'>
-                <h1 className='text-4xl font-bold border-b-4 text-white border-[#f3a01c] pb-3 mb-3'>FREQUENTLY ASKED QUESTION</h1>
+                <h1 className='text-4xl font-bold border-b-4 text-white border-[#f3a01c] pb-3 mb-3 mx-5'>FREQUENTLY ASKED QUESTION</h1>
             </div>
             <div className='w-3/4 mx-auto'>
                 {

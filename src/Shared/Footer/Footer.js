@@ -3,7 +3,7 @@ const Footer = () => {
     return (
         <div className=' bg-[#030C4D] py-7' >
 
-            <footer className="footer grid grid-cols-2 md:grid-cols-4  p-10  w-10/12 mx-auto pb-20 text-white" >
+            <footer className="footer grid md:grid-cols-4 p-5  md:p-10  md:w-10/12 mx-auto pb-20 text-white" >
 
                 <div className=" footer-contact">
 
