@@ -4,8 +4,8 @@ const ServiceCart = ({ service }) => {
     const { title, description, icon } = service;
     return (
 
-        <div className="card py-20 bg-base-100 hover:shadow-xl">
-            <figure className="px-16 py-6 ">
+        <div className="card py-16 bg-base-100 hover:shadow-xl">
+            <figure className="px-16  ">
                 <div className='hover:bg-[#f3a01c] rounded-full p-5'>
                     <img src={icon} alt="" className='w-14 ' />
                 </div>
