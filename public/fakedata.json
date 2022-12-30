@@ -1,0 +1,65 @@
+[
+    {
+        "id": 1,
+        "title": "Website & Application",
+        "description": "In the world of digital revolution, a fantastic user friendly website making good business sense will fetch you far more customers than a regular website.",
+        "icon": "https://i.ibb.co/T1qKTDt/3037366.png",
+        "classes": "fa-brands"
+    },
+    {
+        "id": 2,
+        "title": "Search Engine Optimization",
+        "description": "In the world of digital revolution, a fantastic user friendly website making good business sense will fetch you far more customers than a regular website.",
+        "icon": "https://i.ibb.co/xSMjLr1/5902216.png",
+        "classes": "fa-light"
+    },
+    {
+        "id": 3,
+        "title": "Social Media Optimisation",
+        "description": "We provide excellent strategic business solutions to various corporates. We develop distinctive and adaptive strategies that help companies succeed.",
+        "icon": "https://i.ibb.co/kSTYzFF/seo-29-512.png",
+        "classes": "fa-regular"
+    },
+    {
+        "id": 4,
+        "title": "PR & Brand Management",
+        "description": "PR & Brand Management is prominent for every business to attain perfect growth, whether you have a worldwide business with millions of customers.",
+        "icon": "https://i.ibb.co/chLQmYC/162893.png",
+        "classes": "fa-regular"
+    },
+    {
+        "id": 5,
+        "title": "Content Management",
+        "description": "Content is King! We provide you with relatable high quality content, logo designs, promotional graphics, infographics and videos to give your brand an outstanding presence on various social media platforms.",
+        "icon": "https://i.ibb.co/k6tbTD9/4658907.png",
+        "classes": "fa-thin"
+    },
+    {
+        "id": 6,
+        "title": "Business Consulting",
+        "description": "We provide excellent strategic business solutions to various corporates. We develop distinctive and adaptive strategies that help companies succeed.",
+        "icon": "https://i.ibb.co/KmGLysw/Consultant-Icon-Transparent-File.png",
+        "classes": "fa-brands"
+    },
+    {
+        "id": 7,
+        "title": "Election Campaign Management",
+        "description": "At HubNex we have an experienced team with a proven track record in managing successful political and election campaigns at state and national level.",
+        "icon": "https://i.ibb.co/9yGn2Ny/4327388.png",
+        "classes": "fa-brands"
+    },
+    {
+        "id": 8,
+        "title": "Emerging Technology Services",
+        "description": "We help you with emerging technology that you prefer for your business - Big data, cloud-based services, business intelligence solutions, Internet of Thing.",
+        "icon": "https://i.ibb.co/yX26FJJ/4257483.png",
+        "classes": "fa-brands"
+    },
+    {
+        "id": 9,
+        "title": "Video Production & Promotion",
+        "description": "We live in a world driven by images and visual storytelling. HubNex has helped countless businesses tell their unique stories.",
+        "icon": "https://i.ibb.co/4VRDLfk/1688484.png",
+        "classes": "fa-brands"
+    }
+]
